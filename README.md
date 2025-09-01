@@ -19,4 +19,8 @@ Cyclone IV FPGA Pin Connection Guidelines, https://www.intel.com/content/www/us/
 EP4CGX75DF27C8N Thermal Information (672Pin), https://www.intel.com/content/www/us/en/support/programmable/support-resources/devices/thermal.html?type=thermal&family=Cyclone_IV
 EP4CGX75DF27C8N Package Informatiom,  https://www.intel.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04R00420-02.pdf
 EP4CGX75DF27C8N Pinout File,  https://cdrdv2.intel.com/v1/dl/getContent/656323
+EP4CGX75 OrCAD Symbol File,  https://cdrdv2.intel.com/v1/dl/getContent/648745?explicitVersion=true&fileName=ep4cgx75.olb
 
+All Pinout File, https://www.intel.com/content/www/us/en/support/programmable/support-resources/devices/lit-dp.html?1#tab-blade-1-3
+All OrCAD Symbol, https://www.intel.com/content/www/us/en/support/programmable/support-resources/board-layout/fpga-pcb-resources.html
+     
